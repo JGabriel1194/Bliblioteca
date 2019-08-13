@@ -16,7 +16,7 @@
 			$("#ventanalogin").slideDown("slow");
 			$('#ErrorUsuario').hide('fast');
 		}
-
+		//hola que hace
 		function CerrarVentaLogin(){
 			document.forms['formingreso'].reset();
 			$("#ventanalogin").slideUp("fast");
