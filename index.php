@@ -16,7 +16,7 @@
 			$("#ventanalogin").slideDown("slow");
 			$('#ErrorUsuario').hide('fast');
 		}
-		//hola que hace
+		//hola que hace aqui que hay de nuevo
 		function CerrarVentaLogin(){
 			document.forms['formingreso'].reset();
 			$("#ventanalogin").slideUp("fast");
